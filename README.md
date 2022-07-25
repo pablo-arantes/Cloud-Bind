@@ -23,7 +23,7 @@ The main goal of this work is to demonstrate how to harness the power of cloud-c
 - A Cloud-Bind by **Pablo R. Arantes** ([@pablitoarantes](https://twitter.com/pablitoarantes))
 
 ## How should I reference this work?
-- If you’re using **EquiBind**, please also cite: <br />
+- If you’re using **EquiBind**, please cite: <br />
   Stärk et al. "EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction." <br />
   arXiv (2022) doi: [10.48550/arXiv.2202.05146](https://doi.org/10.48550/arXiv.2202.05146)
 - If you’re using **GNINA**, please also cite: <br />
