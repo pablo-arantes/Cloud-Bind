@@ -7,6 +7,8 @@ This is a repository where you can find a Jupyter notebook scripts for running [
 
 The main goal of this work is to demonstrate how to harness the power of cloud-computing in a cheap and yet feasible fashion.
 
+1. **EquiBind** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Making-it-rain/blob/main/Amber.ipynb)  - `Using AMBER to generate topology and to build the simulation box`
+
 ## Bugs
 - If you encounter any bugs, please report the issue to https://github.com/pablo-arantes/Cloud-Bind/issues
 
@@ -21,9 +23,9 @@ The main goal of this work is to demonstrate how to harness the power of cloud-c
 - If you’re using **EquiBind**, please also cite: <br />
   Stärk et al. "EquiBind: Geometric Deep Learning for Drug Binding Structure Prediction." <br />
   arXiv (2022) doi: [10.48550/arXiv.2202.05146](https://doi.org/10.48550/arXiv.2202.05146)
-- If you’re using **gnina**, please also cite: <br />
+- If you’re using **GNINA**, please also cite: <br />
   McNutt et al. "GNINA 1.0: molecular docking with deep learning." <br />
   Journal of Cheminformatics (2021) doi: [10.1186/s13321-021-00522-2](https://doi.org/10.1186/s13321-021-00522-2)
-- If you’re using **Molecular Dynamics notebook**, please also cite: <br />
+- If you’re using **Molecular Dynamics Notebook**, please also cite: <br />
   Arantes et al. "Making it rain: cloud-based molecular simulations for everyone." <br />
   Journal of Chemical Information and Modeling (2021) doi: [10.1021/acs.jcim.1c00998](https://doi.org/10.1021/acs.jcim.1c00998)
