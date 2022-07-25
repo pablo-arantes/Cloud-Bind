@@ -3,17 +3,20 @@ Cloud-based Drug Binding Structure Prediction
 
 ## Hello there!
 
-This is a repository where you can find a Jupyter notebook scripts for running [EquiBind](https://github.com/HannesStark/EquiBind) (geometric deep learning for drug binding structure prediction) and [gnina](https://github.com/gnina/gnina) (molecular docking program with integrated support for scoring and optimizing ligands using convolutional neural networks) on Google Colab.
+This is a repository where you can find a Jupyter notebook scripts for running [EquiBind](https://github.com/HannesStark/EquiBind) (geometric deep learning for drug binding structure prediction) and [GNINA](https://github.com/gnina/gnina) (molecular docking program with integrated support for scoring and optimizing ligands using convolutional neural networks) on Google Colab.
 
 The main goal of this work is to demonstrate how to harness the power of cloud-computing in a cheap and yet feasible fashion.
 
 1. **EquiBind** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Making-it-rain/blob/main/Amber.ipynb)  - `Using AMBER to generate topology and to build the simulation box`
+2. **GNINA** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Making-it-rain/blob/main/Amber.ipynb)  - `Using AMBER to generate topology and to build the simulation box`
 
 ## Bugs
 - If you encounter any bugs, please report the issue to https://github.com/pablo-arantes/Cloud-Bind/issues
 
 ## Acknowledgments
-- We would like to thank the [EquiBind](https://github.com/HannesStark/EquiBind) and [gnina](https://github.com/gnina/gnina) team for doing an excellent job open sourcing the software. 
+- We would like to thank the [EquiBind](https://github.com/HannesStark/EquiBind) and [GNINA](https://github.com/gnina/gnina) team for doing an excellent job open sourcing the software.
+- We would like to thank the [Roitberg](https://roitberg.chem.ufl.edu/) team for developing the fantastic [TorchANI](https://github.com/aiqm/torchani).
+- We would like to thank [@ruiz_moreno_aj](https://twitter.com/ruiz_moreno_aj) for his work on [Jupyter Dock](https://github.com/AngelRuizMoreno/Jupyter_Dock) 
 - We would like to thank the ChemosimLab ([@ChemosimLab](https://twitter.com/ChemosimLab)) team for their incredible [ProLIF](https://prolif.readthedocs.io/en/latest/index.html#) (Protein-Ligand Interaction Fingerprints) tool.
 - Also, credit to [David Koes](https://github.com/dkoes) for his awesome [py3Dmol](https://3dmol.csb.pitt.edu/) plugin.
 - Finally, we would like to thank Making it rain team, **Pablo R. Arantes** ([@pablitoarantes](https://twitter.com/pablitoarantes)), **Marcelo D. Polêto** ([@mdpoleto](https://twitter.com/mdpoleto)), **Conrado Pedebos** ([@ConradoPedebos](https://twitter.com/ConradoPedebos)) and **Rodrigo Ligabue-Braun** ([@ligabue_braun](https://twitter.com/ligabue_braun)), for their amazing work.
