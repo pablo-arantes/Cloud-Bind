@@ -31,6 +31,7 @@ D. Lukauskis, M. L. Samways, S. Aureli, B. P. Cossins, R. D. Taylor, F. L. Gerva
 - If you’re using **OpenBPMD**, please cite: <br />
   Clark et al. "Prediction of Protein–Ligand Binding Poses via a Combination of Induced Fit Docking and Metadynamics Simulations." <br />
   Journal of Chemical Theory and Computation (2016) doi: [10.1021/acs.jctc.6b00201](https://doi.org/10.1021/acs.jctc.6b00201)
+  
   Lukauskis et al. "Open Binding Pose Metadynamics: An Effective Approach for the Ranking of Protein–Ligand Binding Poses." <br />
   Journal of Chemical Information and Modeling (2022) doi: [10.1021/acs.jcim.2c01142](https://doi.org/10.1021/acs.jcim.2c01142)
 - If you’re using **GNINA**, please also cite: <br />
