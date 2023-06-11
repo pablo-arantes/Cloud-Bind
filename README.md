@@ -9,7 +9,7 @@ The main goal of this work is to demonstrate how to harness the power of cloud-c
 
 1. **GNINA** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Cloud-Bind/blob/main/GNINA.ipynb)  - `Using GNINA to perform molecular docking calculations with integrated support for scoring and optimizing ligands using convolutional neural networks. `
 2. **GNINA+MD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Cloud-Bind/blob/main/GNINA%2BMD.ipynb)  - `Using GNINA to perform molecular docking calculations and OpenMM to run molecular dynamics simulations.`
-3. **GNINA+OpenBPMD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Cloud-Bind/blob/main/GNINA%2BMD.ipynb)  - `Using GNINA to perform molecular docking calculations and OpenBPMD to evaluate binding pose with metadynamics (BPMD).`
+3. **GNINA+OpenBPMD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Cloud-Bind/blob/main/GNINA%2BOpenBPMD.ipynb)  - `Using GNINA to perform molecular docking calculations and OpenBPMD to evaluate binding pose with metadynamics (BPMD).`
 
 ## Bugs
 - If you encounter any bugs, please report the issue to https://github.com/pablo-arantes/Cloud-Bind/issues
