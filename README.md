@@ -1,6 +1,8 @@
 # Cloud-Bind
 Cloud-based Drug Binding Structure Prediction
 
+![](https://github.com/pablo-arantes/Cloud-Bind/blob/main/readme.gif)
+
 ## Hi there!
 
 This is a repository where you can find a Jupyter notebook scripts for running [GNINA](https://github.com/gnina/gnina) (molecular docking program with integrated support for scoring and optimizing ligands using convolutional neural networks),  [Uni-Dock](https://github.com/dptech-corp/Uni-Dock) (GPU-accelerated molecular docking program) and [OpenBPMD](https://github.com/Gervasiolab/OpenBPMD) (evaluating ligand pose stability using metadynamics) on Google Colab.
