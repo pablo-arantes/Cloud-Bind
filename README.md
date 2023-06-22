@@ -29,12 +29,6 @@ The main goal of this work is to demonstrate how to harness the power of cloud-c
 - A Cloud-Bind by **Pablo R. Arantes** ([@pablitoarantes](https://twitter.com/pablitoarantes))
 
 ## How should I reference this work?
-- If you’re using **OpenBPMD**, please cite: <br />
-  Clark et al. "Prediction of Protein–Ligand Binding Poses via a Combination of Induced Fit Docking and Metadynamics Simulations." <br />
-  Journal of Chemical Theory and Computation (2016) doi: [10.1021/acs.jctc.6b00201](https://doi.org/10.1021/acs.jctc.6b00201)
-  
-  Lukauskis et al. "Open Binding Pose Metadynamics: An Effective Approach for the Ranking of Protein–Ligand Binding Poses." <br />
-  Journal of Chemical Information and Modeling (2022) doi: [10.1021/acs.jcim.2c01142](https://doi.org/10.1021/acs.jcim.2c01142)
 - If you’re using **GNINA**, please also cite: <br />
   McNutt et al. "GNINA 1.0: molecular docking with deep learning." <br />
   Journal of Cheminformatics (2021) doi: [10.1186/s13321-021-00522-2](https://doi.org/10.1186/s13321-021-00522-2)
@@ -44,3 +38,9 @@ The main goal of this work is to demonstrate how to harness the power of cloud-c
 - If you’re using **Molecular Dynamics Notebook**, please also cite: <br />
   Arantes et al. "Making it rain: cloud-based molecular simulations for everyone." <br />
   Journal of Chemical Information and Modeling (2021) doi: [10.1021/acs.jcim.1c00998](https://doi.org/10.1021/acs.jcim.1c00998)
+- If you’re using **OpenBPMD**, please cite: <br />
+  Clark et al. "Prediction of Protein–Ligand Binding Poses via a Combination of Induced Fit Docking and Metadynamics Simulations." <br />
+  Journal of Chemical Theory and Computation (2016) doi: [10.1021/acs.jctc.6b00201](https://doi.org/10.1021/acs.jctc.6b00201)
+  
+  Lukauskis et al. "Open Binding Pose Metadynamics: An Effective Approach for the Ranking of Protein–Ligand Binding Poses." <br />
+  Journal of Chemical Information and Modeling (2022) doi: [10.1021/acs.jcim.2c01142](https://doi.org/10.1021/acs.jcim.2c01142)
