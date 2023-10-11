@@ -1,7 +1,7 @@
 # Cloud-Bind
 Cloud-based Drug Binding Structure Prediction
 
-![](https://github.com/pablo-arantes/Cloud-Bind/blob/main/readme.gif)
+![](https://github.com/pablo-arantes/Cloud-Bind/blob/main/Cloud-Bind_github.png)
 
 ## Hi there!
 
