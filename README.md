@@ -7,7 +7,7 @@
 
 ## 🔬 Overview
 
-**Cloud-Bind** is a cloud-powered platform for running molecular docking, virtual screening, and ligand pose evaluation directly in **Google Colab** — no local installation or high-performance computing required.
+**Cloud-Bind** is a cloud-powered platform for running molecular docking, virtual screening, and ligand pose evaluation directly in **Google Colab**, no local installation or high-performance computing required.
 
 This repository contains a collection of Jupyter Notebooks integrating:
 - [**GNINA**](https://github.com/gnina/gnina): Molecular docking with deep learning scoring using convolutional neural networks (CNNs).  
@@ -66,12 +66,11 @@ We gratefully acknowledge the developers of the tools integrated in **Cloud-Bind
 - [**GNINA**](https://github.com/gnina/gnina) — Deep learning–based molecular docking  
 - [**Uni-Dock**](https://github.com/dptech-corp/Uni-Dock) — GPU-accelerated docking for ultralarge virtual screening  
 - [**OpenBPMD**](https://github.com/Gervasiolab/OpenBPMD) — Binding pose metadynamics  
-- [**TorchANI**](https://github.com/aiqm/torchani) — Machine learning potentials for molecular dynamics  
 - [**ProLIF**](https://prolif.readthedocs.io/en/latest/index.html#) — Protein–Ligand Interaction Fingerprints  
 - [**py3Dmol**](https://3dmol.csb.pitt.edu/) — Interactive 3D molecular visualization  
 
 Special thanks to:  
-**Pablo R. Arantes**, **Conrado Pedebos**, and **Rodrigo Ligabue-Braun** — developers of *Cloud-Bind*  
+**Pablo R. Arantes**, **Conrado Pedebos**, and **Rodrigo Ligabue-Braun**, developers of *Cloud-Bind*  
 and to the *Making it Rain* team for pioneering open, cloud-based molecular simulation workflows.
 
 ---
