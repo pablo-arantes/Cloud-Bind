@@ -8,16 +8,22 @@ Cloud-based Drug Binding Structure Prediction
 This is a repository where you can find a collection of Jupyter notebook scripts for running [GNINA](https://github.com/gnina/gnina) (molecular docking program with integrated support for scoring and optimizing ligands using convolutional neural networks),  [Uni-Dock](https://github.com/dptech-corp/Uni-Dock) (GPU-accelerated molecular docking program) and [OpenBPMD](https://github.com/Gervasiolab/OpenBPMD) (evaluating ligand pose stability using metadynamics) on Google Colab.
 
 The main goal of this work is to demonstrate how to harness the power of cloud-computing in a cheap and yet feasible fashion.
+
 **GNINA**
+
 1. **GNINA** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Cloud-Bind/blob/main/GNINA.ipynb)  - `Using GNINA to perform molecular docking calculations with integrated support for scoring and optimizing ligands using convolutional neural networks. `
 2. **GNINA+MD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Cloud-Bind/blob/main/GNINA%2BMD.ipynb)  - `Using GNINA to perform molecular docking calculations and OpenMM to run molecular dynamics simulations.`
 3. **GNINA+OpenBPMD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Cloud-Bind/blob/main/GNINA%2BOpenBPMD.ipynb)  - `Using GNINA to perform molecular docking calculations and OpenBPMD to evaluate binding pose with metadynamics (BPMD).`
+
 **Uni-Dock**
+
 4. **Uni-Dock** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Cloud-Bind/blob/main/Uni_Dock.ipynb)  - `Using Uni-Dock to perform GPU-accelerated molecular docking calculations. It supports various scoring functions including vina and vinardo. `
 5. **Uni-Dock+MD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Cloud-Bind/blob/main/Uni_Dock%2BMD.ipynb)  - `Using Uni-Dock to perform GPU-accelerated molecular docking calculations and OpenMM to run molecular dynamics simulations.`
 6. **Uni-Dock+OpenBPMD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Cloud-Bind/blob/main/Uni_Dock%2BOpenBPMD.ipynb)  - `Using Uni-Dock to perform GPU-accelerated molecular docking calculations and OpenBPMD to evaluate binding pose with metadynamics (BPMD).`
+
 **Virtual Screening**
-**Virtual Screening** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Cloud-Bind/blob/main/Virtual_Screening.ipynb)  - `Virtual Screening protocol, including molecular docking calculations with deep learning using the Gnina docking software, the Protein-Ligand Atomistic Conformational Ensemble Resolver and the AEV-PLIG binding affinity predictor.`
+
+7. **Virtual Screening** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/pablo-arantes/Cloud-Bind/blob/main/Virtual_Screening.ipynb)  - `Virtual Screening protocol, including molecular docking calculations with deep learning using the Gnina docking software, the Protein-Ligand Atomistic Conformational Ensemble Resolver and the AEV-PLIG binding affinity predictor.`
 
 ## Bugs
 - If you encounter any bugs, please report the issue to https://github.com/pablo-arantes/Cloud-Bind/issues
