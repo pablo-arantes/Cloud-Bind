@@ -79,6 +79,9 @@ and to the *Making it Rain* team for pioneering open, cloud-based molecular simu
 
 If you use **Cloud-Bind** or any of its integrated notebooks, please cite the respective software and references:
 
+- **Cloud-Bind**  
+  Pedebos et al., *ChemRxiv,* **2025**, DOI: [10.26434/chemrxiv-2025-jr04j](https://doi.org/10.26434/chemrxiv-2025-jr04j)
+
 - **GNINA**  
   McNutt et al., *J. Cheminform.* **2021**, DOI: [10.1186/s13321-021-00522-2](https://doi.org/10.1186/s13321-021-00522-2)
 
